@@ -3,3 +3,4 @@
 .secret1
 .secret2
 .secret3
+一時退避を確認
